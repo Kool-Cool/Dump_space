@@ -3,7 +3,7 @@
 
 # Issue - 1 
 (while migrating tables)
-```console
+```shell
  2024_06_04_171313_create_user_module_notifications_table .......................................................... 23.57ms FAIL
 
    Illuminate\Database\QueryException 
